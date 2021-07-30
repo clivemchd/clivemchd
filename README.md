@@ -8,9 +8,7 @@
 📫 How to reach me: Email me! <br />
 🥅 Goals for 2021: Contribute more often to Open Source, Participate frequently in online events & code challenges.
 
-<hr />
-
-[![Clive's GitHub stats](https://github-readme-stats.vercel.app/api?username=clivemchd&count_private=true&theme=radical)]
+<!-- [![Clive's GitHub stats](https://github-readme-stats.vercel.app/api?username=clivemchd&count_private=true&theme=radical)] -->
 
 <hr />
 
